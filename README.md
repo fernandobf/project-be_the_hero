@@ -6,8 +6,8 @@ Projeto desenvolvido com finalidade de estudo. Consiste em uma plataforma que pe
 
 #### Tecnologias utilizadas
 - Node.js - Backend
-- React - Frontend web
-- React Native / Expo - Mobile
+- React - Frontend (Web)
+- React Native / Expo - Frontend (Mobile)
 - SQLite - Banco de dados 
 
 ## Instalação 
